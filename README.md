@@ -27,4 +27,3 @@
 ## 致谢与声明 (Acknowledgments & Credits)
 
 我们要向原开源项目 [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) 致以最诚挚的敬意与谢意。本仓库中的绝大部分 AI Agent 角色设计及其核心描述，均源自该优秀项目的启发与底稿重构转换。感谢他们为 AI Agent 开源社区做出的杰出贡献与奠基性工作。
-
