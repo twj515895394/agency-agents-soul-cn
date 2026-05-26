@@ -6,8 +6,8 @@
 
 | 角色名称 | 核心定位描述 | SOUL 链接 |
 | :--- | :--- | :--- |
-| **Nexus Spatial: Full Agency Discovery Exercise** |  | [查看 SOUL](nexus-spatial-discovery-soul.md) |
-| **Workflow Example: Book Chapter Development** |  | [查看 SOUL](workflow-book-chapter-soul.md) |
-| **Multi- Workflow: Landing Page Sprint** |  | [查看 SOUL](workflow-landing-page-soul.md) |
-| **Multi- Workflow: Startup MVP** |  | [查看 SOUL](workflow-startup-mvp-soul.md) |
-| **Multi- Workflow: Startup MVP with Persistent Memory** |  | [查看 SOUL](workflow-with-memory-soul.md) |
+| **空间发现与关系推荐智能体** | 高自恰空间发现与位置关系推荐智能体，专注于地理位置上下文建模与空间计算推理。 | [查看 SOUL](nexus-spatial-discovery-soul.md) |
+| **联合著作者** | 联合著作者与思想领袖定位架构师，专注于将零散语音及笔记重构为高智识感章节草案。 | [查看 SOUL](workflow-book-chapter-soul.md) |
+| **着陆页文案策略专家** | 着陆页文案策略专家，专注于打磨极具转化率、高痛点唤醒与商业价值的落地页文案。 | [查看 SOUL](workflow-landing-page-soul.md) |
+| **MVP 极速开发与架构师** | MVP 极速开发与系统架构师，致力于用最短的时间构建出技术自洽、稳健可用的最小可行性产品。 | [查看 SOUL](workflow-startup-mvp-soul.md) |
+| **记忆驱动型工作流架构师** | 记忆驱动型工作流架构师，专注于设计具备长期记忆、状态图调度与上下文持久化追踪的智能工作流。 | [查看 SOUL](workflow-with-memory-soul.md) |

@@ -7,11 +7,11 @@
 ```text
 Root/
 ├── academic/ (EN) <===> 01_学术研究/ (CN)
-│   └── anthropologist-soul.md (双语同名)
-│   └── geographer-soul.md (双语同名)
-│   └── historian-soul.md (双语同名)
-│   └── narratologist-soul.md (双语同名)
-│   └── psychologist-soul.md (双语同名)
+│   └── academic-anthropologist-soul.md (双语同名)
+│   └── academic-geographer-soul.md (双语同名)
+│   └── academic-historian-soul.md (双语同名)
+│   └── academic-narratologist-soul.md (双语同名)
+│   └── academic-psychologist-soul.md (双语同名)
 ├── design/ (EN) <===> 02_创意设计/ (CN)
 │   └── brand-guardian-soul.md (双语同名)
 │   └── image-prompt-engineer-soul.md (双语同名)
@@ -59,6 +59,7 @@ Root/
 │   └── workflow-with-memory-soul.md (双语同名)
 ├── finance/ (EN) <===> 05_财务与投资分析/ (CN)
 │   └── bookkeeper-controller-soul.md (双语同名)
+│   └── finance-tracker-soul.md (双语同名)
 │   └── financial-analyst-soul.md (双语同名)
 │   └── fpa-analyst-soul.md (双语同名)
 │   └── investment-researcher-soul.md (双语同名)
@@ -102,10 +103,10 @@ Root/
 │   └── xiaohongshu-specialist-soul.md (双语同名)
 │   └── zhihu-strategist-soul.md (双语同名)
 ├── paid-media/ (EN) <===> 09_付费买量运营/ (CN)
-│   └── auditor-soul.md (双语同名)
-│   └── creative-strategist-soul.md (双语同名)
+│   └── ad-creative-strategist-soul.md (双语同名)
+│   └── paid-media-auditor-soul.md (双语同名)
 │   └── paid-social-strategist-soul.md (双语同名)
-│   └── ppc-strategist-soul.md (双语同名)
+│   └── ppc-campaign-strategist-soul.md (双语同名)
 │   └── programmatic-buyer-soul.md (双语同名)
 │   └── search-query-analyst-soul.md (双语同名)
 │   └── tracking-specialist-soul.md (双语同名)
@@ -118,10 +119,10 @@ Root/
 ├── project-management/ (EN) <===> 11_项目管理与协调/ (CN)
 │   └── experiment-tracker-soul.md (双语同名)
 │   └── jira-workflow-steward-soul.md (双语同名)
+│   └── project-manager-senior-soul.md (双语同名)
 │   └── project-shepherd-soul.md (双语同名)
 │   └── studio-operations-soul.md (双语同名)
 │   └── studio-producer-soul.md (双语同名)
-│   └── project-manager-senior-soul.md (双语同名)
 ├── sales/ (EN) <===> 12_销售赋能与拓客/ (CN)
 │   └── account-strategist-soul.md (双语同名)
 │   └── coach-soul.md (双语同名)
@@ -166,17 +167,17 @@ Root/
 │   └── retail-customer-returns-soul.md (双语同名)
 │   └── sales-data-extraction-agent-soul.md (双语同名)
 │   └── sales-outreach-soul.md (双语同名)
-│   └── chief-of-staff-soul.md (双语同名)
-│   └── civil-engineer-soul.md (双语同名)
-│   └── cultural-intelligence-strategist-soul.md (双语同名)
-│   └── developer-advocate-soul.md (双语同名)
-│   └── document-generator-soul.md (双语同名)
-│   └── french-consulting-market-soul.md (双语同名)
-│   └── korean-business-navigator-soul.md (双语同名)
-│   └── mcp-builder-soul.md (双语同名)
-│   └── model-qa-soul.md (双语同名)
-│   └── salesforce-architect-soul.md (双语同名)
-│   └── workflow-architect-soul.md (双语同名)
+│   └── specialized-chief-of-staff-soul.md (双语同名)
+│   └── specialized-civil-engineer-soul.md (双语同名)
+│   └── specialized-cultural-intelligence-strategist-soul.md (双语同名)
+│   └── specialized-developer-advocate-soul.md (双语同名)
+│   └── specialized-document-generator-soul.md (双语同名)
+│   └── specialized-french-consulting-market-soul.md (双语同名)
+│   └── specialized-korean-business-navigator-soul.md (双语同名)
+│   └── specialized-mcp-builder-soul.md (双语同名)
+│   └── specialized-model-qa-soul.md (双语同名)
+│   └── specialized-salesforce-architect-soul.md (双语同名)
+│   └── specialized-workflow-architect-soul.md (双语同名)
 │   └── study-abroad-advisor-soul.md (双语同名)
 │   └── supply-chain-strategist-soul.md (双语同名)
 │   └── zk-steward-soul.md (双语同名)
@@ -187,7 +188,6 @@ Root/
 ├── support/ (EN) <===> 16_内部支撑与合规/ (CN)
 │   └── analytics-reporter-soul.md (双语同名)
 │   └── executive-summary-generator-soul.md (双语同名)
-│   └── finance-tracker-soul.md (双语同名)
 │   └── infrastructure-maintainer-soul.md (双语同名)
 │   └── legal-compliance-checker-soul.md (双语同名)
 │   └── support-responder-soul.md (双语同名)
@@ -206,20 +206,20 @@ Root/
 
 | 序号 | 英文目录名称 | 中文目录名称 | 角色数量 |
 | :---: | :--- | :--- | :---: |
-| 01 | `/academic/` | `/01_学术研究/` | 已完成第一阶段对接 |
-| 02 | `/design/` | `/02_创意设计/` | 已完成第一阶段对接 |
-| 03 | `/engineering/` | `/03_软件与系统工程/` | 已完成第一阶段对接 |
-| 04 | `/examples/` | `/04_综合应用案例/` | 已完成第一阶段对接 |
-| 05 | `/finance/` | `/05_财务与投资分析/` | 已完成第一阶段对接 |
-| 06 | `/game-development/` | `/06_游戏开发与叙事/` | 已完成第一阶段对接 |
-| 07 | `/integrations/` | `/07_系统接口集成/` | 已完成第一阶段对接 |
-| 08 | `/marketing/` | `/08_增长与数字营销/` | 已完成第一阶段对接 |
-| 09 | `/paid-media/` | `/09_付费买量运营/` | 已完成第一阶段对接 |
-| 10 | `/product/` | `/10_产品规划与研究/` | 已完成第一阶段对接 |
-| 11 | `/project-management/` | `/11_项目管理与协调/` | 已完成第一阶段对接 |
-| 12 | `/sales/` | `/12_销售赋能与拓客/` | 已完成第一阶段对接 |
-| 13 | `/spatial-computing/` | `/13_空间计算与XR/` | 已完成第一阶段对接 |
-| 14 | `/specialized/` | `/14_垂类专业服务/` | 已完成第一阶段对接 |
-| 15 | `/strategy/` | `/15_战略咨询/` | 已完成第一阶段对接 |
-| 16 | `/support/` | `/16_内部支撑与合规/` | 已完成第一阶段对接 |
-| 17 | `/testing/` | `/17_质量工程与测试/` | 已完成第一阶段对接 |
+| 01 | `/academic/` | `/01_学术研究/` | 已完成全量架构对齐 |
+| 02 | `/design/` | `/02_创意设计/` | 已完成全量架构对齐 |
+| 03 | `/engineering/` | `/03_软件与系统工程/` | 已完成全量架构对齐 |
+| 04 | `/examples/` | `/04_综合应用案例/` | 已完成全量架构对齐 |
+| 05 | `/finance/` | `/05_财务与投资分析/` | 已完成全量架构对齐 |
+| 06 | `/game-development/` | `/06_游戏开发与叙事/` | 已完成全量架构对齐 |
+| 07 | `/integrations/` | `/07_系统接口集成/` | 已完成全量架构对齐 |
+| 08 | `/marketing/` | `/08_增长与数字营销/` | 已完成全量架构对齐 |
+| 09 | `/paid-media/` | `/09_付费买量运营/` | 已完成全量架构对齐 |
+| 10 | `/product/` | `/10_产品规划与研究/` | 已完成全量架构对齐 |
+| 11 | `/project-management/` | `/11_项目管理与协调/` | 已完成全量架构对齐 |
+| 12 | `/sales/` | `/12_销售赋能与拓客/` | 已完成全量架构对齐 |
+| 13 | `/spatial-computing/` | `/13_空间计算与XR/` | 已完成全量架构对齐 |
+| 14 | `/specialized/` | `/14_垂类专业服务/` | 已完成全量架构对齐 |
+| 15 | `/strategy/` | `/15_战略咨询/` | 已完成全量架构对齐 |
+| 16 | `/support/` | `/16_内部支撑与合规/` | 已完成全量架构对齐 |
+| 17 | `/testing/` | `/17_质量工程与测试/` | 已完成全量架构对齐 |

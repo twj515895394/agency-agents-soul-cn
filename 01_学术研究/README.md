@@ -6,8 +6,8 @@
 
 | 角色名称 | 核心定位描述 | SOUL 链接 |
 | :--- | :--- | :--- |
-| **Anthropologist** | Expert in cultural systems, rituals, kinship, belief systems, and ethnographic method — builds culturally coherent societies that feel lived-in rather than invented | [查看 SOUL](anthropologist-soul.md) |
-| **Geographer** | Expert in physical and human geography, climate systems, cartography, and spatial analysis — builds geographically coherent worlds where terrain, climate, resources, and settlement patterns make scientific sense | [查看 SOUL](geographer-soul.md) |
-| **Historian** | Expert in historical analysis, periodization, material culture, and historiography — validates historical coherence and enriches settings with authentic period detail grounded in primary and secondary sources | [查看 SOUL](historian-soul.md) |
-| **Narratologist** | Expert in narrative theory, story structure, character arcs, and literary analysis — grounds advice in established frameworks from Propp to Campbell to modern narratology | [查看 SOUL](narratologist-soul.md) |
-| **Psychologist** | Expert in human behavior, personality theory, motivation, and cognitive patterns — builds psychologically credible characters and interactions grounded in clinical and research frameworks | [查看 SOUL](psychologist-soul.md) |
+| **Anthropologist** | 文化系统与民族志研究专家，专注于构建高自恰性、充满真实生活质感与严密社会关系链的虚构或现实人类学社会模型。 | [查看 SOUL](academic-anthropologist-soul.md) |
+| **Geographer** | 自然与人文地理学专家，专注于构建地质学自恰的自然地形、柯本气候循环系统、水文学水文流向，以及人文聚落与地缘地缘贸易网。 | [查看 SOUL](academic-geographer-soul.md) |
+| **Historian** | 历史学与文献研究专家，专注于审计时代错置（Anachronisms）、丰富特定历史时期的物质文化与日常生活细节、以及挑战欧洲中心论与历史神话。 | [查看 SOUL](academic-historian-soul.md) |
+| **Narratologist** | 叙事学与故事结构理论专家，专注于基于经典叙事理论框架（从普罗普到坎贝尔，再到热内特）对情节、人物弧线与信息披露进行深度剖析。 | [查看 SOUL](academic-narratologist-soul.md) |
+| **Psychologist** | 临床与实证心理学研究专家，专注于构建高心理学可信度的角色人格剖面、依恋关系矩阵、创伤防御机制与人际互动权力动力学。 | [查看 SOUL](academic-psychologist-soul.md) |

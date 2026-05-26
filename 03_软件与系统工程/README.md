@@ -6,32 +6,32 @@
 
 | 角色名称 | 核心定位描述 | SOUL 链接 |
 | :--- | :--- | :--- |
-| **AI Data Remediation Engineer** | "Specialist in self-healing data pipelines — uses air-gapped local SLMs and semantic clustering to automatically detect, classify, and fix data anomalies at scale. Focuses exclusively on the remediation layer: intercepting bad data, generating deterministic fix logic via Ollama, and guaranteeing zero data loss. Not a general data engineer — a surgical specialist for when your data is broken and the pipeline can't stop." | [查看 SOUL](ai-data-remediation-engineer-soul.md) |
-| **AI Engineer** | Expert AI/ML engineer specializing in machine learning model development, deployment, and integration into production systems. Focused on building intelligent features, data pipelines, and AI-powered applications with emphasis on practical, scalable solutions. | [查看 SOUL](ai-engineer-soul.md) |
-| **Autonomous Optimization Architect** | Intelligent system governor that continuously shadow-tests APIs for performance while enforcing strict financial and security guardrails against runaway costs. | [查看 SOUL](autonomous-optimization-architect-soul.md) |
-| **Backend Architect** | Senior backend architect specializing in scalable system design, database architecture, API development, and cloud infrastructure. Builds robust, secure, performant server-side applications and microservices | [查看 SOUL](backend-architect-soul.md) |
-| **CMS Developer** | Drupal and WordPress specialist for theme development, custom plugins/modules, content architecture, and code-first CMS implementation | [查看 SOUL](cms-developer-soul.md) |
-| **Code Reviewer** | Expert code reviewer who provides constructive, actionable feedback focused on correctness, maintainability, security, and performance — not style preferences. | [查看 SOUL](code-reviewer-soul.md) |
-| **Codebase Onboarding Engineer** | Expert developer onboarding specialist who helps new engineers understand unfamiliar codebases fast by reading source code, tracing code paths, and stating only facts grounded in the code. | [查看 SOUL](codebase-onboarding-engineer-soul.md) |
-| **Data Engineer** | Expert data engineer specializing in building reliable data pipelines, lakehouse architectures, and scalable data infrastructure. Masters ETL/ELT, Apache Spark, dbt, streaming systems, and cloud data platforms to turn raw data into trusted, analytics-ready assets. | [查看 SOUL](data-engineer-soul.md) |
-| **Database Optimizer** | Expert database specialist focusing on schema design, query optimization, indexing strategies, and performance tuning for PostgreSQL, MySQL, and modern databases like Supabase and PlanetScale. | [查看 SOUL](database-optimizer-soul.md) |
-| **DevOps Automator** | Expert DevOps engineer specializing in infrastructure automation, CI/CD pipeline development, and cloud operations | [查看 SOUL](devops-automator-soul.md) |
-| **Email Intelligence Engineer** | Expert in extracting structured, reasoning-ready data from raw email threads for AI agents and automation systems | [查看 SOUL](email-intelligence-engineer-soul.md) |
-| **Embedded Firmware Engineer** | Specialist in bare-metal and RTOS firmware - ESP32/ESP-IDF, PlatformIO, Arduino, ARM Cortex-M, STM32 HAL/LL, Nordic nRF5/nRF Connect SDK, FreeRTOS, Zephyr | [查看 SOUL](embedded-firmware-engineer-soul.md) |
-| **Feishu Integration Developer** | Full-stack integration expert specializing in the Feishu (Lark) Open Platform — proficient in Feishu bots, mini programs, approval workflows, Bitable (multidimensional spreadsheets), interactive message cards, Webhooks, SSO authentication, and workflow automation, building enterprise-grade collaboration and automation solutions within the Feishu ecosystem. | [查看 SOUL](feishu-integration-developer-soul.md) |
-| **Filament Optimization Specialist** | Expert in restructuring and optimizing Filament PHP admin interfaces for maximum usability and efficiency. Focuses on impactful structural changes — not just cosmetic tweaks. | [查看 SOUL](filament-optimization-specialist-soul.md) |
-| **Frontend Developer** | Expert frontend developer specializing in modern web technologies, React/Vue/Angular frameworks, UI implementation, and performance optimization | [查看 SOUL](frontend-developer-soul.md) |
-| **Git Workflow Master** | Expert in Git workflows, branching strategies, and version control best practices including conventional commits, rebasing, worktrees, and CI-friendly branch management. | [查看 SOUL](git-workflow-master-soul.md) |
-| **Incident Response Commander** | Expert incident commander specializing in production incident management, structured response coordination, post-mortem facilitation, SLO/SLI tracking, and on-call process design for reliable engineering organizations. | [查看 SOUL](incident-response-commander-soul.md) |
-| **Minimal Change Engineer** | Engineering specialist focused on minimum-viable diffs — fixes only what was asked, refuses scope creep, prefers three similar lines over a premature abstraction. The discipline that prevents bug-fix PRs from becoming refactor avalanches. | [查看 SOUL](minimal-change-engineer-soul.md) |
-| **Mobile App Builder** | Specialized mobile application developer with expertise in native iOS/Android development and cross-platform frameworks | [查看 SOUL](mobile-app-builder-soul.md) |
-| **Rapid Prototyper** | Specialized in ultra-fast proof-of-concept development and MVP creation using efficient tools and frameworks | [查看 SOUL](rapid-prototyper-soul.md) |
-| **Security Engineer** | Expert application security engineer specializing in threat modeling, vulnerability assessment, secure code review, security architecture design, and incident response for modern web, API, and cloud-native applications. | [查看 SOUL](security-engineer-soul.md) |
-| **Senior Developer** | Premium implementation specialist - Masters Laravel/Livewire/FluxUI, advanced CSS, Three.js integration | [查看 SOUL](senior-developer-soul.md) |
-| **Software Architect** | Expert software architect specializing in system design, domain-driven design, architectural patterns, and technical decision-making for scalable, maintainable systems. | [查看 SOUL](software-architect-soul.md) |
-| **Solidity Smart Contract Engineer** | Expert Solidity developer specializing in EVM smart contract architecture, gas optimization, upgradeable proxy patterns, DeFi protocol development, and security-first contract design across Ethereum and L2 chains. | [查看 SOUL](solidity-smart-contract-engineer-soul.md) |
-| **SRE (Site Reliability Engineer)** | Expert site reliability engineer specializing in SLOs, error budgets, observability, chaos engineering, and toil reduction for production systems at scale. | [查看 SOUL](sre-soul.md) |
-| **Technical Writer** | Expert technical writer specializing in developer documentation, API references, README files, and tutorials. Transforms complex engineering concepts into clear, accurate, and engaging docs that developers actually read and use. | [查看 SOUL](technical-writer-soul.md) |
-| **Threat Detection Engineer** | Expert detection engineer specializing in SIEM rule development, MITRE ATT&CK coverage mapping, threat hunting, alert tuning, and detection-as-code pipelines for security operations teams. | [查看 SOUL](threat-detection-engineer-soul.md) |
-| **Voice AI Integration Engineer** | Expert in building end-to-end speech transcription pipelines using Whisper-style models and cloud ASR services — from raw audio ingestion through preprocessing, transcript cleanup, subtitle generation, speaker diarization, and structured downstream integration into apps, APIs, and CMS platforms. | [查看 SOUL](voice-ai-integration-engineer-soul.md) |
-| **WeChat Mini Program Developer** | Expert WeChat Mini Program developer specializing in 小程序 development with WXML/WXSS/WXS, WeChat API integration, payment systems, subscription messaging, and the full WeChat ecosystem. | [查看 SOUL](wechat-mini-program-developer-soul.md) |
+| **Ai Data Remediation Engineer** | Expert Ai Data Remediation Engineer agent personality core. | [查看 SOUL](ai-data-remediation-engineer-soul.md) |
+| **Ai Engineer** | Expert Ai Engineer agent personality core. | [查看 SOUL](ai-engineer-soul.md) |
+| **Autonomous Optimization Architect** | Expert Autonomous Optimization Architect agent personality core. | [查看 SOUL](autonomous-optimization-architect-soul.md) |
+| **Backend Architect** | Expert Backend Architect agent personality core. | [查看 SOUL](backend-architect-soul.md) |
+| **Cms Developer** | Expert Cms Developer agent personality core. | [查看 SOUL](cms-developer-soul.md) |
+| **Code Reviewer** | Expert Code Reviewer agent personality core. | [查看 SOUL](code-reviewer-soul.md) |
+| **Codebase Onboarding Engineer** | Expert Codebase Onboarding Engineer agent personality core. | [查看 SOUL](codebase-onboarding-engineer-soul.md) |
+| **Data Engineer** | Expert Data Engineer agent personality core. | [查看 SOUL](data-engineer-soul.md) |
+| **Database Optimizer** | Expert Database Optimizer agent personality core. | [查看 SOUL](database-optimizer-soul.md) |
+| **Devops Automator** | Expert Devops Automator agent personality core. | [查看 SOUL](devops-automator-soul.md) |
+| **Email Intelligence Engineer** | Expert Email Intelligence Engineer agent personality core. | [查看 SOUL](email-intelligence-engineer-soul.md) |
+| **Embedded Firmware Engineer** | Expert Embedded Firmware Engineer agent personality core. | [查看 SOUL](embedded-firmware-engineer-soul.md) |
+| **Feishu Integration Developer** | Expert Feishu Integration Developer agent personality core. | [查看 SOUL](feishu-integration-developer-soul.md) |
+| **Filament Optimization Specialist** | Expert Filament Optimization Specialist agent personality core. | [查看 SOUL](filament-optimization-specialist-soul.md) |
+| **Frontend Developer** | Expert Frontend Developer agent personality core. | [查看 SOUL](frontend-developer-soul.md) |
+| **Git Workflow Master** | Expert Git Workflow Master agent personality core. | [查看 SOUL](git-workflow-master-soul.md) |
+| **Incident Response Commander** | Expert Incident Response Commander agent personality core. | [查看 SOUL](incident-response-commander-soul.md) |
+| **Minimal Change Engineer** | Expert Minimal Change Engineer agent personality core. | [查看 SOUL](minimal-change-engineer-soul.md) |
+| **Mobile App Builder** | Expert Mobile App Builder agent personality core. | [查看 SOUL](mobile-app-builder-soul.md) |
+| **Rapid Prototyper** | Expert Rapid Prototyper agent personality core. | [查看 SOUL](rapid-prototyper-soul.md) |
+| **Security Engineer** | Expert Security Engineer agent personality core. | [查看 SOUL](security-engineer-soul.md) |
+| **Senior Developer** | Expert Senior Developer agent personality core. | [查看 SOUL](senior-developer-soul.md) |
+| **Software Architect** | Expert Software Architect agent personality core. | [查看 SOUL](software-architect-soul.md) |
+| **Solidity Smart Contract Engineer** | Expert Solidity Smart Contract Engineer agent personality core. | [查看 SOUL](solidity-smart-contract-engineer-soul.md) |
+| **Sre** | Expert Sre agent personality core. | [查看 SOUL](sre-soul.md) |
+| **Technical Writer** | Expert Technical Writer agent personality core. | [查看 SOUL](technical-writer-soul.md) |
+| **Threat Detection Engineer** | Expert Threat Detection Engineer agent personality core. | [查看 SOUL](threat-detection-engineer-soul.md) |
+| **Voice Ai Integration Engineer** | Expert Voice Ai Integration Engineer agent personality core. | [查看 SOUL](voice-ai-integration-engineer-soul.md) |
+| **Wechat Mini Program Developer** | Expert Wechat Mini Program Developer agent personality core. | [查看 SOUL](wechat-mini-program-developer-soul.md) |

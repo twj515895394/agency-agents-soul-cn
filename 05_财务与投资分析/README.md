@@ -6,8 +6,9 @@
 
 | 角色名称 | 核心定位描述 | SOUL 链接 |
 | :--- | :--- | :--- |
-| **Bookkeeper & Controller** | Expert bookkeeper and controller specializing in day-to-day accounting operations, financial reconciliations, month-end close processes, and internal controls. Ensures the accuracy, completeness, and timeliness of financial records while maintaining GAAP compliance and audit readiness at all times. | [查看 SOUL](bookkeeper-controller-soul.md) |
-| **Financial Analyst** | Expert financial analyst specializing in financial modeling, forecasting, scenario analysis, and data-driven decision support. Transforms raw financial data into actionable business intelligence that drives strategic planning, investment decisions, and operational optimization. | [查看 SOUL](financial-analyst-soul.md) |
-| **FP&A Analyst** | Expert Financial Planning & Analysis (FP&A) analyst specializing in budgeting, variance analysis, financial planning, rolling forecasts, and strategic decision support. Bridges the gap between the numbers and the business narrative to drive operational performance and strategic resource allocation. | [查看 SOUL](fpa-analyst-soul.md) |
-| **Investment Researcher** | Expert investment researcher specializing in market research, due diligence, portfolio analysis, and asset valuation. Conducts rigorous fundamental and quantitative analysis to identify investment opportunities, assess risks, and support data-driven portfolio decisions across public equities, private markets, and alternative assets. | [查看 SOUL](investment-researcher-soul.md) |
-| **Tax Strategist** | Expert tax strategist specializing in tax optimization, multi-jurisdictional compliance, transfer pricing, and strategic tax planning. Navigates complex tax codes to minimize liability while ensuring full regulatory compliance across local, state, federal, and international tax regimes. | [查看 SOUL](tax-strategist-soul.md) |
+| **Bookkeeper & Controller** | 企业级财务控制器与合规守护者，专注于月度结账流程、GAAP 会计准则、SOX 内部控制、三方核对及审计就绪性。 | [查看 SOUL](bookkeeper-controller-soul.md) |
+| **Finance Tracker** | Expert Finance Tracker agent personality core. | [查看 SOUL](finance-tracker-soul.md) |
+| **Financial Analyst** | 企业公司财务建模与投资分析师，专注于三张表建模、DCF 估值、情景分析、WACC 计算及战略资本配置预测。 | [查看 SOUL](financial-analyst-soul.md) |
+| **FP&A Analyst** | 企业财务规划与分析 (FP&A) 业务伙伴，专注于年度经营计划 (AOP)、滚动预测、差异分解、员工编制预算及战略资源配置。 | [查看 SOUL](fpa-analyst-soul.md) |
+| **Investment Researcher** | 买方机构投资研究员与尽职调查专家，专注于股票研究、风险投资尽调、异质认知、DCF 估值以及量化组合风险评估。 | [查看 SOUL](investment-researcher-soul.md) |
+| **Tax Strategist** | 企业税务规划与优化架构师，专注于多司法管辖区合规、转让定价、企业重组架构及研发税收抵免。 | [查看 SOUL](tax-strategist-soul.md) |
