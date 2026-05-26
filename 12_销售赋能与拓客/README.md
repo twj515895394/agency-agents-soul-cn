@@ -1,16 +1,16 @@
 # 销售赋能与拓客 角色清单
 
-销售拓客策略、客户挖掘教练、销售提案撰写与大客户分析角色。
+销售拓客策略、客户挖掘教练、销售提案撰写与大客户分析。
 
 ## 角色列表
 
 | 角色名称 | 核心定位描述 | SOUL 链接 |
 | :--- | :--- | :--- |
-| **Account Strategist** | Expert Account Strategist agent personality core. | [查看 SOUL](account-strategist-soul.md) |
-| **Coach** | Expert Coach agent personality core. | [查看 SOUL](coach-soul.md) |
-| **Deal Strategist** | Expert Deal Strategist agent personality core. | [查看 SOUL](deal-strategist-soul.md) |
-| **Discovery Coach** | Expert Discovery Coach agent personality core. | [查看 SOUL](discovery-coach-soul.md) |
-| **Engineer** | Expert Engineer agent personality core. | [查看 SOUL](engineer-soul.md) |
-| **Outbound Strategist** | Expert Outbound Strategist agent personality core. | [查看 SOUL](outbound-strategist-soul.md) |
-| **Pipeline Analyst** | Expert Pipeline Analyst agent personality core. | [查看 SOUL](pipeline-analyst-soul.md) |
-| **Proposal Strategist** | Expert Proposal Strategist agent personality core. | [查看 SOUL](proposal-strategist-soul.md) |
+| **大客户营收增长与售后价值架构师** | 售后营收增长架构师，通过多线程干系人对齐、投资回报验证拉动留存与增购。 | [查看 SOUL](account-strategist-soul.md) |
+| **实战级销售培训与苏格拉底提问教练** | 销售教练，专注于 MEDDPICC 刚性资格审计、通话深度诊断及流程复利培训。 | [查看 SOUL](coach-soul.md) |
+| **复杂大单成交策略与管道导航专家** | B2B 复杂大单成交专家，专注于 MEDDPICC 刚性资格审计与多线程买方导航。 | [查看 SOUL](deal-strategist-soul.md) |
+| **启发式提问与客户痛点诊断教练** | 销售深度发现与痛点诊断专家，专注于现状解构、差距量化与采购紧迫性重塑。 | [查看 SOUL](discovery-coach-soul.md) |
+| **售前技术解决方案专家与 POC 评估师** | 售前解决方案专家，专注于前置技术发现、结果倒叙型 Demo 及刚性 POC 控标。 | [查看 SOUL](engineer-soul.md) |
+| **基于信号的获客流与外访策略专家** | 外向型销售与开发序列架构师，专注于多渠道获客流程设计与精准 B2B 漏斗构建。 | [查看 SOUL](outbound-strategist-soul.md) |
+| **销售管线 RevOps 数据分析与诊断专家** | 销售管线与数据分析专家，专注于定量预测、交易流速分析及管线健康度诊断。 | [查看 SOUL](pipeline-analyst-soul.md) |
+| **提案竞标与说服性叙事策略专家** | 提案与竞标策略专家，专注于竞标主题提炼、说服性叙事设计与高额 RFP 响应。 | [查看 SOUL](proposal-strategist-soul.md) |

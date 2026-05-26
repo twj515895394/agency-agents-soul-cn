@@ -1,6 +1,6 @@
 # 垂类专业服务 角色清单
 
-法律文案审查、合规审计、医疗行业营销、区块链安全审计与垂直顾问角色。
+法律文案审查、合规审计、医疗行业营销与区块链安全审计。
 
 ## 角色列表
 
@@ -36,14 +36,14 @@
 | **高级幕僚长** | 高级幕僚长，专注于跨部门业务协调、噪音过滤、决策推进与高层输出定位。 | [查看 SOUL](specialized-chief-of-staff-soul.md) |
 | **岩土与结构工程师** | 岩土与结构工程师，熟练掌握多国建筑标准，专注于结构力学分析与建筑合规验算。 | [查看 SOUL](specialized-civil-engineer-soul.md) |
 | **文化智能策略专家** | 文化智能策略专家，专注于跨文化 UX 审计、国际化设计规范及 WCAG 无障碍合规。 | [查看 SOUL](specialized-cultural-intelligence-strategist-soul.md) |
-| **Specialized Developer Advocate** | Expert Specialized Developer Advocate agent personality core. | [查看 SOUL](specialized-developer-advocate-soul.md) |
-| **Specialized Document Generator** | Expert Specialized Document Generator agent personality core. | [查看 SOUL](specialized-document-generator-soul.md) |
-| **Specialized French Consulting Market** | Expert Specialized French Consulting Market agent personality core. | [查看 SOUL](specialized-french-consulting-market-soul.md) |
-| **Specialized Korean Business Navigator** | Expert Specialized Korean Business Navigator agent personality core. | [查看 SOUL](specialized-korean-business-navigator-soul.md) |
-| **Specialized Mcp Builder** | Expert Specialized Mcp Builder agent personality core. | [查看 SOUL](specialized-mcp-builder-soul.md) |
-| **Specialized Model Qa** | Expert Specialized Model Qa agent personality core. | [查看 SOUL](specialized-model-qa-soul.md) |
-| **Specialized Salesforce Architect** | Expert Specialized Salesforce Architect agent personality core. | [查看 SOUL](specialized-salesforce-architect-soul.md) |
-| **Specialized Workflow Architect** | Expert Specialized Workflow Architect agent personality core. | [查看 SOUL](specialized-workflow-architect-soul.md) |
-| **Study Abroad Advisor** | Expert Study Abroad Advisor agent personality core. | [查看 SOUL](study-abroad-advisor-soul.md) |
-| **Supply Chain Strategist** | Expert Supply Chain Strategist agent personality core. | [查看 SOUL](supply-chain-strategist-soul.md) |
-| **Zk Steward** | Expert Zk Steward agent personality core. | [查看 SOUL](zk-steward-soul.md) |
+| **开发者关系与体验（DX）架构师** | 开发者关系工程师与 DX 架构师，专注于新手引导流程审计、样例代码与开发者空间运营。 | [查看 SOUL](specialized-developer-advocate-soul.md) |
+| **可编程文档编译与自动化生成专家** | 可编程文档排版与自动化渲染管道技术专家，专注于 PDF、PPTX、Excel 的渲染与编译。 | [查看 SOUL](specialized-document-generator-soul.md) |
+| **法国咨询市场与自由职业商务顾问** | 服务于独立 IT 顾问及自由职业者的法国商务顾问，精算 TJM 并指导税筹搭建。 | [查看 SOUL](specialized-french-consulting-market-soul.md) |
+| **韩国商务沟通与本地化导航专家** | 熟稔韩国本土企业文化与关系优先商务逻辑的跨文化咨询专家，引导韩企呈批流转。 | [查看 SOUL](specialized-korean-business-navigator-soul.md) |
+| **MCP 接口与服务构建专家** | Model Context Protocol (MCP) 服务构建专家，设计高性能工具与安全扩展智能体边界。 | [查看 SOUL](specialized-mcp-builder-soul.md) |
+| **机器学习与统计模型 QA 审计专家** | 独立的机器学习与统计模型 QA 审计专家，专注于模型概率校准检验与压力测试。 | [查看 SOUL](specialized-model-qa-soul.md) |
+| **Salesforce 解决方案与平台治理架构师** | 资深 Salesforce 解决方案架构师与企业级平台治理专家，专注于数据模型与集成模式。 | [查看 SOUL](specialized-salesforce-architect-soul.md) |
+| **系统工作流与分支逻辑治理架构师** | 系统工作流架构师与分支逻辑治理大师，绘制工作流决策树并定义硬性服务契约。 | [查看 SOUL](specialized-workflow-architect-soul.md) |
+| **学术留学与多国联申规划专家** | 全球多国联合申请规划与学术留学顾问，提供数据驱动的精准定位与叙事文书方案。 | [查看 SOUL](study-abroad-advisor-soul.md) |
+| **供应链战略与采购管理总监** | 资深供应链总监与战略采购架构师，专注于供应商绩效审计与多源供应链安全。 | [查看 SOUL](supply-chain-strategist-soul.md) |
+| **卡片盒笔记与知识网络管家** | 资深知识网络管家与卡片盒笔记架构师，致力于在演进的认知网络中构建互联节点。 | [查看 SOUL](zk-steward-soul.md) |

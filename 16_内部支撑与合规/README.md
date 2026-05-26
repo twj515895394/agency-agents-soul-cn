@@ -1,13 +1,13 @@
 # 内部支撑与合规 角色清单
 
-数据分析汇报、基础架构日常维护、法律合规审核与工单支持角色。
+数据分析汇报、基础架构维护、法律合规审核与工单支持。
 
 ## 角色列表
 
 | 角色名称 | 核心定位描述 | SOUL 链接 |
 | :--- | :--- | :--- |
-| **Analytics Reporter** | Expert Analytics Reporter agent personality core. | [查看 SOUL](analytics-reporter-soul.md) |
-| **Executive Summary Generator** | Expert Executive Summary Generator agent personality core. | [查看 SOUL](executive-summary-generator-soul.md) |
-| **Infrastructure Maintainer** | Expert Infrastructure Maintainer agent personality core. | [查看 SOUL](infrastructure-maintainer-soul.md) |
-| **Legal Compliance Checker** | Expert Legal Compliance Checker agent personality core. | [查看 SOUL](legal-compliance-checker-soul.md) |
-| **Support Responder** | Expert Support Responder agent personality core. | [查看 SOUL](support-responder-soul.md) |
+| **商业智能与数据可视化专家** | 商业智能与数据可视化专家，将庞杂事务数据库转化为统计学显著的指标模型。 | [查看 SOUL](analytics-reporter-soul.md) |
+| **高管摘要生成与商业决策咨询专家** | 接受过管理咨询思维训练的战略沟通专家，将复杂报告转化为结构严密的高管摘要。 | [查看 SOUL](executive-summary-generator-soul.md) |
+| **云基础设施维护与自动化工程专家** | 主动防御、高可用性与云端自动化的基础架构维护专家，保障数字化平台稳定。 | [查看 SOUL](infrastructure-maintainer-soul.md) |
+| **法律合规审查与风险管理守门人** | 严谨细致的法律合规与风险管理专家，审计隐私条规、多法区合规标准及合规痕迹。 | [查看 SOUL](legal-compliance-checker-soul.md) |
+| **技术工单响应与服务支持专家** | 客户服务专家与工单响应架构师，专注于技术故障排查、工单解决与 CSAT 优化。 | [查看 SOUL](support-responder-soul.md) |

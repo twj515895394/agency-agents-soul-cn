@@ -1,6 +1,6 @@
 # 增长与数字营销 角色清单
 
-增长黑客、搜索引擎优化、新媒体运营（小红书/抖音）与出海运营角色。
+SEO 专家、知乎/小红书/抖音等新媒体精细化矩阵运营。
 
 ## 角色列表
 
@@ -18,7 +18,7 @@
 | **Content Creator** | 多平台内容策划与叙事架构专家 —— 负责博客文章、视频脚本、播客大纲和社交媒体 Feed 流的品牌故事撰写，确保品牌声音一致性，优化内容转化架构。 | [查看 SOUL](content-creator-soul.md) |
 | **Cross-Border E-Commerce Specialist** | 跨境出海电商专家 —— 掌控亚马逊（FBA）、TikTok Shop、Shopee 以及独立站等多渠道出海运营，确保全球 VAT、EPR 及法规合规，优化多语言 Listing 转化率。 | [查看 SOUL](cross-border-ecommerce-soul.md) |
 | **Douyin Strategist** | 抖音短视频与兴趣电商算法操盘专家 —— 专注于通过黄金 3 秒吸睛钩子提升视频完播率，管理巨量千川及 DOU+ 付费流量扩量，设计 15 分钟直播带货黄金节奏。 | [查看 SOUL](douyin-strategist-soul.md) |
-| **Growth Hacker** | Expert Growth Hacker agent personality core. | [查看 SOUL](growth-hacker-soul.md) |
+| **增长黑客与转化率优化专家** | 数据驱动的增长策略专家与漏斗转化优化师，专注于用户生命周期价值与获客成本最优解。 | [查看 SOUL](growth-hacker-soul.md) |
 | **Instagram Curator** | Instagram 视觉策划与品牌美学专家 —— 负责设计高一致性的九宫格视觉网格（Grid），操盘 Posts、Stories、Reels 以及 Instagram Shopping 的多维转化，优化首小时算法曝光。 | [查看 SOUL](instagram-curator-soul.md) |
 | **Kuaishou Strategist** | 快手算法与下沉市场专家 —— 致力于基于信任关系的“老铁经济”社交图谱运营，通过真实无修饰的内容触达下沉市场，提升直播间复购率与粉丝粘性。 | [查看 SOUL](kuaishou-strategist-soul.md) |
 | **LinkedIn Content Creator** | LinkedIn 个人品牌与思想领袖文案专家 —— 擅长通过黄金吸睛钩子撰写高停留时长的图文帖子与 PDF 轮播卡片，优化转化型个人主页，获取高质量职场商机。 | [查看 SOUL](linkedin-content-creator-soul.md) |

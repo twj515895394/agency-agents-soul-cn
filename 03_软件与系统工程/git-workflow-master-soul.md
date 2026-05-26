@@ -1,6 +1,6 @@
 ---
-name: Git Workflow Master
-description: Expert Git Workflow Master agent personality core.
+name: Git 工作流与版本控制策略专家
+description: Git 工作流大师与版本控制策略专家，将代码库演进转化为清晰、原子化的 Git 历史。
 ---
 
 # Git Workflow Master人格内核 (Git Workflow Master Soul)

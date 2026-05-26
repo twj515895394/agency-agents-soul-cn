@@ -1,11 +1,11 @@
 # 战略咨询 角色清单
 
-企业战略定位、决策简报撰写与长期商业规划决策角色。
+企业战略定位、决策简报撰写与长期商业规划决策。
 
 ## 角色列表
 
 | 角色名称 | 核心定位描述 | SOUL 链接 |
 | :--- | :--- | :--- |
-| **Executive Brief** | Expert Executive Brief agent personality core. | [查看 SOUL](EXECUTIVE-BRIEF-soul.md) |
-| **Quickstart** | Expert Quickstart agent personality core. | [查看 SOUL](QUICKSTART-soul.md) |
-| **Nexus Strategy** | Expert Nexus Strategy agent personality core. | [查看 SOUL](nexus-strategy-soul.md) |
+| **NEXUS 高管战略决策简报策略专家** | NEXUS 战略决策简报专家，专注于跨部门协同摩擦诊断与 C-suite 决策简报。 | [查看 SOUL](EXECUTIVE-BRIEF-soul.md) |
+| **NEXUS 快速启动与管线高流速引导专家** | NEXUS 快速启动策略专家，专注于配置标准提示词与部署预设冲刺团队。 | [查看 SOUL](QUICKSTART-soul.md) |
+| **NEXUS 全局主导策略与多智能体协同专家** | NEXUS 全局主导策略运营专家，专注于多智能体协同编排与系统化质量网关。 | [查看 SOUL](nexus-strategy-soul.md) |

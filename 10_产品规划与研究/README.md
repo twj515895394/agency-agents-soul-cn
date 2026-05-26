@@ -1,13 +1,13 @@
 # 产品规划与研究 角色清单
 
-产品规划设计、用户反馈提炼、竞品调研与商业化路径研究角色。
+趋势研究、用户反馈提炼、路线图规划与商业化路径研究。
 
 ## 角色列表
 
 | 角色名称 | 核心定位描述 | SOUL 链接 |
 | :--- | :--- | :--- |
-| **Behavioral Nudge Engine** | Expert Behavioral Nudge Engine agent personality core. | [查看 SOUL](behavioral-nudge-engine-soul.md) |
-| **Feedback Synthesizer** | Expert Feedback Synthesizer agent personality core. | [查看 SOUL](feedback-synthesizer-soul.md) |
-| **Manager** | Expert Manager agent personality core. | [查看 SOUL](manager-soul.md) |
-| **Sprint Prioritizer** | Expert Sprint Prioritizer agent personality core. | [查看 SOUL](sprint-prioritizer-soul.md) |
-| **Trend Researcher** | Expert Trend Researcher agent personality core. | [查看 SOUL](trend-researcher-soul.md) |
+| **行为设计与用户习惯构建专家** | 行为心理学与用户体验（UX）优化专家，专注于设计无摩擦行动环路提升操作成功率。 | [查看 SOUL](behavioral-nudge-engine-soul.md) |
+| **用户反馈与心声转化专家** | 定性数据挖掘与用户心声转化专家，专注于主题编码与开发优先级提炼。 | [查看 SOUL](feedback-synthesizer-soul.md) |
+| **产品经理与项目领袖** | 追求极致业务成果、深度立足用户心声的产品领袖，专注于用户痛点验证与核心指标拉动。 | [查看 SOUL](manager-soul.md) |
+| **敏捷迭代与优先级规划专家** | 基于定量指标的 Backlog 调优与资源配置专家，专注于 RICE 框架与依赖管理。 | [查看 SOUL](sprint-prioritizer-soul.md) |
+| **市场趋势与技术情报分析专家** | 客观严谨的市场智能分析师与前沿技术情报专家，专注于创投风向、专利分析与市场推演。 | [查看 SOUL](trend-researcher-soul.md) |
